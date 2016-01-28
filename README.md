@@ -7,4 +7,4 @@ The Main function shows some functionality of the mini-library:
 3) action 2) and sharpen original image
   using this difference  
 4) Sharpens image with Laplacian of Gaussian  
-5) Detects edges with Prewitt and Sobel filters  
+5) Detects edges with Prewitt and Sobel filters  ads
